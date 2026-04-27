@@ -1,93 +1,220 @@
-# Hyfai Privacy Policy
+# HyFai 隱私權政策 Privacy Policy
 
+**生效日期：2026 年 4 月 15 日**
 
+HyFai（以下簡稱「本服務」或「我們」）非常重視您的隱私權。本政策旨在說明我們如何蒐集、使用、揭露及保護您的個人資訊，特別是涉及人工智慧（AI）互動與第三方服務串接的部分。
 
-## Getting started
+請您在使用本服務前仔細閱讀本政策。使用本服務即表示您已閱讀、理解並同意本政策之內容。
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+本政策適用於 iOS 及 Android 雙平台，並遵循 Apple App Store 審核指南及 Google Play 開發者政策之相關要求。
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+---
 
-## Add your files
+## 一、我們蒐集的資料
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+### （一）使用者主動提供的資料
 
-```
-cd existing_repo
-git remote add origin gitlab.hephaistudio.dscloud.biz:49156/joshli/hyfai-privacy-policy.git
-git branch -M main
-git push -uf origin main
-```
+- **帳號資訊**：電子郵件地址、暱稱、頭像（您自行設定之內容）
+- **第三方登入資訊**：透過 Apple、Google 等帳號登入時，我們會取得其授權範圍內的基本帳號資訊
+- **個人偏好設定**：語言偏好、通知設定、互動角色選擇等
+- **付款資訊**：訂閱或購買時，付款流程由 Apple App Store 或 Google Play 完成，我們不會直接儲存您的完整信用卡資訊
 
-## Integrate with your tools
+### （二）使用過程中自動產生的資料
 
-- [ ] [Set up project integrations](https://gitlab.hephaistudio.dscloud.biz:49156/joshli/hyfai-privacy-policy/-/settings/integrations)
+- **對話與互動紀錄**：您與 AI 角色的文字及語音互動內容
+- **使用行為數據**：功能使用紀錄、頁面停留時間、點擊路徑
+- **裝置資訊**：裝置型號、作業系統版本、App 版本、語言設定
+- **網路資訊**：IP 位址、網路連線類型
+- **錯誤紀錄**：系統崩潰與錯誤報告（用於偵錯與改善品質）
 
-## Collaborate with your team
+### （三）未主動蒐集的資料
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+我們不會主動蒐集以下敏感個人資訊：
 
-## Test and Deploy
+- 身分證統一編號或護照號碼
+- 信用卡完整卡號或金融帳戶資訊
+- 生物特徵辨識資料（如指紋、臉部辨識）
+- 醫療或健康紀錄（除非您在對話中主動揭露，我們不會另行記錄）
 
-Use the built-in continuous integration in GitLab.
+---
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+## 二、資料的使用目的
 
-***
+您的資料可能用於以下用途：
 
-# Editing this README
+- 提供、維護及改善本服務功能與內容品質
+- 根據您的互動歷史提供個人化 AI 對話與推薦內容
+- 管理您的帳號、訂閱狀態及付款紀錄
+- 發送服務通知、重要更新及活動訊息（可於裝置設定關閉推播）
+- 偵測並防止詐欺、濫用及違規行為，維護服務安全
+- 匿名化統計分析，用於改善 AI 模型與使用者體驗
+- 依法律規定履行告知、揭露或保存義務
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+我們不會將您的個人資料用於與本服務功能無關的商業廣告目的，亦不會將您的個人資料出售予第三方。
 
-## Suggestions for a good README
+---
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+## 三、AI 功能與資料保護說明
 
-## Name
-Choose a self-explaining name for your project.
+### （一）AI 如何使用您的資料
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+本服務採用 AI 技術提供以下功能：
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+- AI 角色對話與情感互動
+- 個人化角色培養與關係進展
+- 語音對話功能（如適用）
+- 個人化內容推薦
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+您的對話內容可能用於：
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+- 生成當下及後續的 AI 回覆
+- 維持對話連貫性與記憶
+- 以匿名化方式改善 AI 模型品質
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+### （二）對話紀錄的保存與保護
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+- 對話內容採加密方式儲存
+- 不會用於訓練任何外部公開發佈的 AI 模型
+- 不會與其他使用者共享您的私人對話內容
+- 您可隨時申請查閱、下載或刪除您的對話紀錄
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+### （三）第三方 AI 服務
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+我們可能使用第三方 AI 運算服務（如 OpenAI、Anthropic、Google 等）協助生成回覆。資料可能經由第三方處理，但僅限於：
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+- 生成 AI 回覆所需之最小必要資料
+- 偵測濫用或違規行為
+- 服務維運與安全防護
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+所有第三方合作廠商均受嚴格保密協議約束，不得將資料用於其他商業用途。
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+---
 
-## License
-For open source projects, say how it is licensed.
+## 四、資料的分享與揭露
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+我們不會主動將您的個人資料洩漏或提供給其他使用者或第三方單位。
+僅在以下有限情況下，我們可能揭露您的資料：
+
+### （一）經您明確同意
+
+當您授權特定整合功能（如第三方帳號連結），我們才會在授權範圍內共享必要資訊。
+
+### （二）服務協力廠商
+
+委託協助我們運營服務之技術供應商（如雲端主機、AI 運算、資料分析）得在保密協議範圍內接觸必要資料，不得用於其他目的。
+
+### （三）法律要求與檢警調查
+
+依據中華民國（台灣）相關法律，在以下情況下我們將配合提供必要資料：
+
+- 法院之合法令狀或裁定
+- 檢察官或司法警察（官）依法定程序之調查請求
+- 政府主管機關依法規要求之揭露
+- 為保護人身安全之緊急必要情形
+
+配合法律檢警調查時，我們將盡可能在法律允許範圍內事先通知您（法律明文禁止者除外），並僅提供法律要求之最小必要範圍資料。
+
+### （四）企業合併或轉讓
+
+若發生企業合併、收購或資產出售等情形，您的資料可能隨之移轉。我們將在此類交易前以適當方式通知您，並確保接收方維持同等保護標準。
+
+---
+
+## 五、未成年人保護
+
+本服務適用對象為年滿 18 歲或以上之成年人。
+
+- 未滿 18 歲之未成年人須在監護人明確同意下方可使用本服務
+- 我們不會在知情情況下蒐集未滿 13 歲兒童的個人資料
+- 若發現未成年人未經監護人同意使用本服務，我們將採取措施刪除相關帳號及資料
+
+監護人如發現其子女在未經同意下使用本服務，請立即透過下方聯絡方式通知我們。
+
+---
+
+## 六、您對個人資料的權利
+
+依據個人資料保護法及適用法規，您享有以下權利：
+
+- **查詢或請求閱覽**：查看我們持有之您的個人資料
+- **請求補充或更正**：更新不正確或過時的資料
+- **請求停止蒐集、處理或利用**：撤回您的同意
+- **請求刪除**：要求刪除您的帳號及相關個人資料
+- **請求複製**：取得您個人資料的副本（資料可攜權）
+- **請求停止電話行銷或廣告訊息推送**
+
+如需行使上述權利，請透過 App 內帳號設定，或發送郵件至 **support@heph-ai.com** 提出申請。我們將於 15 個工作日內回覆。
+
+---
+
+## 七、資料安全
+
+我們採取以下技術與管理措施保護您的個人資料：
+
+- **傳輸加密**：所有資料傳輸採用 TLS/SSL 加密協議
+- **儲存加密**：敏感資料於儲存時進行加密處理
+- **存取控制**：嚴格限制員工對使用者資料的存取權限
+- **定期稽核**：定期審查安全措施並進行弱點掃描
+- **資料最小化**：僅蒐集服務所需之最小必要資料
+
+儘管我們盡力保護您的資料，但任何網路傳輸或儲存方式均無法保證絕對安全。若發生資安事件影響您的個人資料，我們將依法通知您。
+
+---
+
+## 八、資料保存期間
+
+我們依照以下原則保存您的個人資料：
+
+- **帳號資料**：帳號存續期間及帳號刪除後 30 天（以利申訴處理）
+- **對話紀錄**：依您的帳號存續期間保存；帳號刪除後將於 90 天內完成匿名化或刪除
+- **付款紀錄**：依稅務法令規定保存（通常為 5 至 7 年）
+- **錯誤日誌**：保存 90 天後自動刪除
+
+您可隨時透過 App 設定或聯絡我們申請立即刪除帳號及相關資料。
+
+---
+
+## 九、Cookie 及追蹤技術
+
+本 App 可能使用以下技術蒐集使用資訊：
+
+- **必要性技術**：維持登入狀態、功能運作所需，無法關閉
+- **分析技術**：了解使用行為以改善服務（匿名化），可於裝置設定中選擇退出
+- **廣告識別碼（IDFA/GAID）**：若用於個人化推薦，將事先取得您的同意
+
+您可透過裝置的隱私設定管理廣告追蹤偏好。
+
+---
+
+## 十、第三方服務與連結
+
+本 App 可能包含連結至第三方網站或服務。這些第三方的資料蒐集及處理行為均受其各自隱私權政策規範，本政策不適用於此類第三方服務。我們建議您在提供個人資料前仔細閱讀各第三方之隱私權政策。
+
+---
+
+## 十一、隱私權政策之更新
+
+我們可能因功能調整、法規變更或服務改善而更新本政策。
+
+- 若有重大更動，我們將於 App 內以明顯方式公告，並發送通知
+- 繼續使用本服務即視為您接受更新後之政策
+- 您可隨時於 App 設定頁面查閱最新版本之隱私權政策
+
+---
+
+## 十二、聯絡我們
+
+若您對本隱私權政策有任何疑問、意見或申訴，請透過以下方式聯繫我們：
+
+- **電子郵件**：support@heph-ai.com
+- **App 內客服**：透過「設定 → 客服中心」提交問題
+
+我們將盡力於 15 個工作日內回覆您的問題。
+
+---
+
+感謝您使用 HyFai，我們致力於保護您的隱私與安全。
+
+**生效日期：2026 年 4 月 15 日**
+
+© HyFai / Heph AI
